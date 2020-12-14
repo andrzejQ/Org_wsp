@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Ciężka, nieznośna praca + nadgodziny"
+title:  "Tam i z powrotem z pustymi taczkami."
 date:   2020-12-12 09:00:00 +0100
 categories: Programowanie
 ---
 
-Po co biegać z pustymi taczkami?
 
+Uciążliwa, nieznośna praca + nadgodziny
 
+Jest taki żart, że biega się z pustymi taczkami po budowie, bo jest tak dużo pracy, że nie ma czasu załadować.
 
-Jest taki żart, że biega się z pustymi taczkami, bo jest tak dużo pracy, że nie ma czasu załadować.
-
-Żart stałby się trochę mniej śmieszny, gdyby zamienić puste taczki na prawie puste, bo pokazywałby często spotykaną praktykę ciężkiej, niewydajnej, nieznośnej pracy. 
+Żart stałby się trochę mniej śmieszny, gdyby zamienić puste taczki na prawie puste, bo pokazywałby często spotykaną praktykę uciążliwej, niewydajnej, nieznośnej pracy. 
 
 Do tego jeszcze może się dołożyć wadliwe zarządzanie "motywacyjne", np. wiążące wynagrodzenie z liczbą kursów z taczkami.
 

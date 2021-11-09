@@ -2,7 +2,7 @@
 layout: post
 title:  "Jedni udają, że płacą, drudzy udają, że pracują"
 date:   2020-12-14 09:00:00 +0100
-categories: Programowanie
+categories: komentarz samoorganizacja partycypacja
 ---
 
 Niby stan równowagi chwiejnej. A jednak błąd zasadniczy.

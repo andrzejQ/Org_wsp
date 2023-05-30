@@ -21,7 +21,7 @@ ma wzorcowego systemu wynagrodzeń.
 Z systemem płac wiązany jest często **system premii motywacyjnych**  
 <small>- zob. [Blikle] 8.7 Dźwignia premiowa ― zachęcanie do stwarzania pozorów. --> </small>
 
-O motywacji sporo pisze Andrzej Blikle - w twierdzeniu o marchewkiju
+O motywacji sporo pisze Andrzej Blikle - w "twierdzeniu o marchewkiju"
 pokazuje nie tylko **nieskuteczność motywacji zewnętrznej**, ale wręcz
 jej przeciwskuteczność, rujnującą współpracę zespołową i wydajność
 organizacji jako całości. Nieufność i wrogie relacje w hierarchicznych
@@ -48,10 +48,11 @@ bramkę.
 W samoorganizacji też nie ma idealnych systemów płacowych, ale jest zasadą, że reguły
 wynagradzania są jawnym tematem dyskusji organizacyjnych w kontekście zmieniających się
 uwarunkowań rynkowych. W przypadku wysokich wynagrodzeń można nawet zaobserwować skrajne
-uproszczenia, jak równe zarobki na osobę wynikające z wyniku finansowego firmy (ta skrajność
-świadczy tylko o tym, że sprawa nie jest prosta do rozwiązania - tak samo jak sytuacje konfliktowe,
-które są drugim ważnym tematem wymagającym bieżącego rozwiązywania w dialogu
-organizacyjnym)
+uproszczenia, jak równe zarobki na osobę wynikające z wyniku finansowego firmy - 
+ale oczywiście przy założeniu, że  wszyscy wnoszą swoje zaangażowanie w osiąganie zespołowego celu, 
+niezależnie od zajmowanego stanowiska. 
+Ta skrajność świadczy tylko o tym, że sprawa nie jest prosta do rozwiązania - tak samo jak sytuacje konfliktowe,
+które są drugim ważnym tematem wymagającym bieżącego rozwiązywania w dialogu organizacyjnym.
 
 
 

@@ -17,7 +17,7 @@ można przeczytać o różnych aspektach systemu wynagrodzeń. Można
 poznać przykłady dobrze sprawdzających się systemów płac, choć wyraźnie trzeba powiedzieć, że nie
 ma wzorcowego systemu wynagrodzeń.
 
-![Rys.8.7-1.Dzwignia_premiowa.jpg]({{ site.baseurl }}/assets/img/Rys.8.7-1.Dzwignia_premiowa.jpg "Rys. 8.7-1. Dzwignia premiowa.jpg"){:style="float:right;width:33%;"} 
+![Rys.8.7-1.Dzwignia_premiowa.jpg]({{site.baseurl}}/assets/img/Rys.8.7-1.Dzwignia_premiowa.jpg "Rys. 8.7-1. Dzwignia premiowa.jpg"){: style="float:right;width:33%;"} 
 Z systemem płac wiązany jest często **system premii motywacyjnych**  
 <small>- zob. [Blikle] 8.7 Dźwignia premiowa ― zachęcanie do stwarzania pozorów. --> </small>
 
@@ -55,5 +55,16 @@ Ta skrajność świadczy tylko o tym, że sprawa nie jest prosta do rozwiązania
 które są drugim ważnym tematem wymagającym bieżącego rozwiązywania w dialogu organizacyjnym.
 
 
+<script>
 
+alert('{{site.baseurl}}'.substring(0,2)=='{'+'{'); //if Jekyll works, then something else then '{'x2
+
+if ( '{{site.baseurl}}'.substring(0,2) == '{'+'{' ) {
+  var images = document.getElementsByTagName('img'); 
+  for(var i = 0; i < images.length; i++) {
+    images[i].src = images[i].src.replace('%7B%7Bsite.baseurl%7D%7D','..');
+  } //{{site.baseurl}} - without spaces!  and space after ":" - ...){:<sp>... !
+}
+
+</script>
 

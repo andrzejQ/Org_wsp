@@ -57,13 +57,12 @@ które są drugim ważnym tematem wymagającym bieżącego rozwiązywania w dial
 
 <script>
 
-alert('{{site.baseurl}}'.substring(0,2)=='{'+'{'); //if Jekyll works, then something else then '{'x2
-
+// alert('{{site.baseurl}}'.substring(0,2)=='{'+'{'); //if Jekyll works, then something else then '{'x2
 if ( '{{site.baseurl}}'.substring(0,2) == '{'+'{' ) {
   var images = document.getElementsByTagName('img'); 
   for(var i = 0; i < images.length; i++) {
     images[i].src = images[i].src.replace('%7B%7Bsite.baseurl%7D%7D','..');
-  } //{{site.baseurl}} - without spaces!  and space after ":" - ...){:<sp>... !
+  } //{{site.baseurl}} - without spaces!  and space after ":" i.e. ...){:<sp>... !
 }
 
 </script>

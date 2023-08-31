@@ -55,15 +55,16 @@ Ta skrajność świadczy tylko o tym, że sprawa nie jest prosta do rozwiązania
 które są drugim ważnym tematem wymagającym bieżącego rozwiązywania w dialogu organizacyjnym.
 
 
+<!-- {% unless jekyll.environment %} -->
 <script>
 
-// alert('{{site.baseurl}}'.substring(0,2)=='{'+'{'); //if Jekyll works, then something else then '{'x2
-if ( '{{site.baseurl}}'.substring(0,2) == '{'+'{' ) {
-  var images = document.getElementsByTagName('img'); 
-  for(var i = 0; i < images.length; i++) {
+(function() {
+  const images = document.getElementsByTagName('img'); 
+  for(let i = 0; i < images.length; i++) {
     images[i].src = images[i].src.replace('%7B%7Bsite.baseurl%7D%7D','..');
-  } //{{site.baseurl}} - without spaces!  and space after ":" i.e. ...){:<sp>... !
-}
+  } //{{site.baseurl}} - without spaces!  
+})();
 
 </script>
+<!-- {% endunless %} -->
 

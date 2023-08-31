@@ -12,7 +12,7 @@ Jest taki żart, że biega się z pustymi taczkami po budowie, bo jest tak dużo
 
 Żart stałby się trochę mniej śmieszny, gdyby zamienić puste taczki na prawie puste, bo pokazywałby często spotykaną praktykę uciążliwej, niewydajnej, nieznośnej pracy. 
 
-Do tego jeszcze może się dołożyć [wadliwe zarządzanie "motywacyjne"]({% if jekyll.environment == "production" %}{{ site.baseurl }}{% endif %}{% post_url 2017-03-23-SystemyPlac %}), np. wiążące wynagrodzenie z liczbą kursów z taczkami.
+Do tego jeszcze może się dołożyć [wadliwe zarządzanie "motywacyjne"]({% if jekyll.environment == "production" %}{{site.baseurl}}{% endif %}{% post_url 2017-03-23-SystemyPlac %}), np. wiążące wynagrodzenie z liczbą kursów z taczkami.
 
 Co gorsza - w tych warunkach wręcz naturalnie pojawia się oczekiwanie pracy po godzinach, skoro jest "taki nawał pracy".
 

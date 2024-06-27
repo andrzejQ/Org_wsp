@@ -37,11 +37,11 @@ konkurencji (czyli jest wdrożony proces śledzenia wynagrodzeń) oraz wynikami 
 
 Laloux i Blikle opisują systemy wynagrodzeń w nowoczesnych organizacjach działających na
 zasadzie samoorganizujących się zespołów. Tam wynagrodzenia nie są celem, ale ogólnie są wysokie,
-ze względu na duże przychody wynikające z pracy zespołowej.
+ze względu na duże przychody wynikające ze skutecznej współpracy zespołowej.
 
 Można porównać współpracę w organizacji do współpracy w drużynie piłkarskiej. Warunkiem
 wygrania jest najpierw zbudowanie komunikacji i zdrowych relacji w zespole. Każdy
-zawodnik wie gdzie jest bramka-cel. Jak ktoś jest np. obrońcą to nie stoi
+zawodnik wie gdzie jest bramka i jaki jest sens tej gry. Jak ktoś jest np. obrońcą to nie stoi
 wyłącznie na swoim wąskim zakresie obowiązków, ale potrafi wyręczyć napastnika i nawet strzelić
 bramkę.
 

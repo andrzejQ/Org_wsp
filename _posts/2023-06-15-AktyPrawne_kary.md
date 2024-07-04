@@ -13,7 +13,7 @@ Zastanowiłem się na takim zasłyszanym stwierdzeniem pod kątem opisanego w ks
 
 "twierdzenia o marchewkiju" wykazującego przeciwskuteczność motywacji zewnętrznej w osiąganiu długofalowych celów.
 
-Można sobie po pierwsze wyobrazić, że taki akt prawny może być przywołany jako norma dla wykonawców zamówień i wtedy nie jest to akt martwy.
+Można sobie po pierwsze wyobrazić, że taki akt prawny może być przywołany jako norma dla wykonawców zamówień i wtedy nie jest to akt martwy ("karą" może być "brak nagrody").
 
 Po drugie kary nie są jedynym czynnikiem, który nadaje sens prawu. Celem prawa jest (chyba) organizacja współdziałania, współegzystowania, czy izolacji od niekorzystnych oddziaływań. Od dwóch tysięcy lat jest znane przeciwstawianie "wypełniania prawa" w opozycji do "przestrzegania nakazów i zakazów prawa". 
 

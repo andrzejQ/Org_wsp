@@ -11,6 +11,6 @@ Mam nadzieję, że przedstawione tutaj okrojone cytaty z książek, które przec
 
 * [Cytaty z Peter F. Drucker, Praktyka zarządzania,1955.html]({{site.baseurl}}/assets/files/Cytaty-Peter_F.Drucker,-Praktyka_zarzadzania,1955.html)
 
-* [Andrzej Blikle, "Doktryna jakości - Rzecz o turkusowej samoorganizacji"](https://www.moznainaczej.com.pl/ksiazka-i-artykuly/doktryna-jakosci)  
+* [Andrzej Blikle, "Doktryna jakości - Rzecz o turkusowej samoorganizacji" »](https://www.moznainaczej.com.pl/ksiazka-i-artykuly/doktryna-jakosci)  
 
-* [Frederic Laloux, "Pracować inaczej"](https://moznainaczej.com.pl/f-laloux-pracowac-inaczej)  
+* [Frederic Laloux, "Pracować inaczej" »](https://moznainaczej.com.pl/f-laloux-pracowac-inaczej)  

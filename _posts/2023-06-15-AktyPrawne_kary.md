@@ -21,6 +21,7 @@ Weźmy przepis "dostosowanie prędkości do warunków jazdy". Jego **wypełniani
 
 Kolejna sprawa to podejście tych, którzy mają uprawnienia do egzekwowania kar. Może się tu okazać, że kary są wykorzystywane niekoniecznie w celu nadawania prawu głębszego sensu. Zob. rozdział w powyżej wspomnianej książce: "13.18 Zbigniew Bujak o policji drogowej i służbach celnych".
 
+
 <!--
 edukacja prawna albo kompromitacja prawa (daj mi człowieka, a znajdę na niego paragraf) (niby-nie-przestępstwo)
 -->

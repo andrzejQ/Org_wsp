@@ -14,3 +14,4 @@ Mam nadzieję, że przedstawione tutaj okrojone cytaty z książek, które przec
 * [Andrzej Blikle, "Doktryna jakości - Rzecz o turkusowej samoorganizacji" »](https://www.moznainaczej.com.pl/ksiazka-i-artykuly/doktryna-jakosci)  
 
 * [Frederic Laloux, "Pracować inaczej" »](https://moznainaczej.com.pl/f-laloux-pracowac-inaczej)  
+

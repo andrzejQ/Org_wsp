@@ -17,3 +17,4 @@ Do tego jeszcze może się dołożyć [wadliwe zarządzanie "motywacyjne"]({% if
 Co gorsza - w tych warunkach wręcz naturalnie pojawia się oczekiwanie pracy po godzinach, skoro jest "taki nawał pracy".
 
 A najgorsze jest to, że w tych warunkach nie ma ani czasu, ani atmosfery, żeby wspólnie **rozmawiać o tym co, dla kogo i jak robimy**. 
+

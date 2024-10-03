@@ -26,6 +26,6 @@ Na koniec kilka uwag praktycznych, czego robić nie należy, chcąc ograniczyć 
 Recenzja książki w w portalu prof. Andrzej Jacka Bliklego:
 * <https://moznainaczej.com.pl/m-kosewski-wartosc-godnosc-i-wladza>
 
-Prezentacja z Konwersatorium TQM dostępna w portalu prof. Andrzej Jacka Bliklego https://moznainaczej.com.pl:
+Prezentacja z Konwersatorium TQM dostępna w portalu prof. Andrzej Jacka Bliklego [moznainaczej.com.pl](https://moznainaczej.com.pl):
 * [Marek Kosewski: "Zarządzanie godnościowe", 2013, PDF](https://moznainaczej.com.pl/Download/Konwersatoria/Rok_2013/M_Kosewski_zarzadzanie_godnosciowe.pdf)
 
